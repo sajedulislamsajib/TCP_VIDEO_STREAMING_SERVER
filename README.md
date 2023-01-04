@@ -58,7 +58,7 @@ https://www.youtube.com/watch?v=8rev9X8zy28
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SajibSajedul)
 
 
-## Support
+## ANY Query
 
-For support, email sajedul.sajib201@protonmail.com
+For any query, email sajedul.sajib201@protonmail.com
 
