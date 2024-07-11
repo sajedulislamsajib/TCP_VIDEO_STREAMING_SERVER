@@ -54,7 +54,6 @@ https://www.youtube.com/watch?v=8rev9X8zy28
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajedul-islam-sajib-78a07a1a8)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SajibSajedul)
 
 
 ## ANY Query
